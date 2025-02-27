@@ -1,9 +1,10 @@
 Richie plugin for `Tutor <https://docs.tutor.overhang.io>`__
 ============================================================
 
+    ⚠ WARNING This plugin is archived but replaced by https://github.com/fccn/tutor-contrib-richie-site-factory.
+
 This is a plugin to integrate `Richie <https://richie.education/>`__, the learning portal CMS, with `Open edX <https://open.edx.org>`__. The integration takes the form of a `Tutor <https://docs.tutor.overhang.io>`__ plugin.
 
-    ⚠ WARNING This plugin is currently undergoing major changes and is being transferred to the `openfun <https://github.com/openfun/>`__ organization.
 
 Installation
 ------------
